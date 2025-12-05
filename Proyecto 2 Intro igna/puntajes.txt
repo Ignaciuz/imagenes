@@ -1,0 +1,17 @@
+Angela,cazador,432
+Angela,escapa,479
+CACA,escapa,433
+bebe,cazador,120
+bebe,cazador,120
+Ignacio,escapa,452
+a,escapa,468
+a,escapa,478
+1,escapa,483
+Maurisio,escapa,443
+a,escapa,451
+a,escapa,398
+a,escapa,489
+1,escapa,386
+a,escapa,386
+a,escapa,496
+a,escapa,452
